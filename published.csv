@@ -1,0 +1,250 @@
+hackType,compEntity,compWork,accWork,hackedPlatform,compDevice,accDevice,goal,compAddr,accAddr,compNat,accNat,compGender,accGender,damage,relationship,result,compAgeGroup,accAgeGroup
+Other,Person,Private sector,Other,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,indictment,30,35
+Phishing,Company,Other,Private sector,Special system,PC,PC,Other,Unknown,Commercial,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,35
+Other,Person,Private sector,Other,Whatsapp,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Female,Male,Other,Non,indictment,30,30
+Other,Person,Student,Government,Twitter,Mobile,Mobile,Other,Commercial,Residential,Kuwait,Kuwait,Female,Female,Social consequences,Non,indictment,20,50
+Phishing,Person,Other,Other,Snapchat,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Male,Male,Other,Non,indictment,20,30
+Abuse of power,Person,Private sector,Private sector,Special system,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,India,Male,Male,Financial consequences,Employee,indictment,40,35
+Abuse of power,Person,Private sector,Private sector,Special system,PC,PC,Unauthorized collection of data,Commercial,Commercial,Kuwait,India,Male,Male,Financial consequences,Employee,indictment,50,30
+Abuse of power,Person,Private sector,Private sector,Special system,PC,PC,Unauthorized collection of data,Commercial,Commercial,Kuwait,Arab,Male,Male,Financial consequences,Employee,indictment,50,40
+Abuse of power,Company,Other,Private sector,Special system,PC,PC,Unauthorized collection of data,Unknown,Commercial,NA,Arab,NA,Male,Other,Employee,indictment,NA,35
+Other,Person,Private sector,Private sector,Email,PC,PC,Unauthorized collection of data,Commercial,Commercial,Egypt,Egypt,Male,Female,Aquirement of private information,Other,indictment,40,35
+Other,Person,Government,Government,Email,PC,PC,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Aquirement of private information,Other,indictment,35,35
+Other,Person,Student,Other,Other,Mobile,Mobile,Unauthorized collection of data,Commercial,Residential,Kuwait,Kuwait,Male,Male,Aquirement of private information,Non,indictment,25,30
+Other,Person,Government,Other,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Arab,Female,Male,Other,Non,indictment,40,40
+Phishing,Person,Private sector,Other,Twitter,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Kuwait,Male,Male,Other,Non,indictment,30,30
+Phishing,Person,Government,Other,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Aquirement of private information,Non,indictment,35,25
+Other,Person,Government,Government,Facebook,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Aquirement of private information,Other,indictment,40,40
+Phishing,Person,Private sector,Private sector,Special system,PC,PC,Unauthorized collection of data,Commercial,Commercial,Other,Arab,Male,Female,Social consequences,Other,indictment,50,40
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Unauthorized collection of data,Unknown,Commercial,NA,Other,NA,Female,Financial consequences,Employee,indictment,NA,30
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Commercial,NA,Kuwait,NA,Male,Financial consequences,Employee,indictment,NA,30
+Abuse of power,Government,Other,Government,Special system,PC,PC,Other,Unknown,Residential,NA,Kuwait,NA,Male,Financial consequences,Employee,indictment,NA,35
+Other,Person,Private sector,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,35,30
+Other,Person,Student,Other,Twitter,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,20,20
+Other,Person,Private sector,Government,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Other,Kuwait,Female,Male,Financial consequences,Other,indictment,30,35
+Phishing,Person,Government,Government,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,indictment,40,40
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Commercial,NA,Arab,NA,Male,Financial consequences,Employee,indictment,NA,30
+Phishing,Person,Private sector,Government,Email,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,indictment,40,40
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,indictment,40,40
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,50
+Phishing,Person,Government,Private sector,Special system,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,40,30
+Phishing,Person,Student,Other,Whatsapp,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,20,25
+Phishing,Person,Government,Government,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,35,50
+Phishing,Person,Government,Other,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Other,Male,Male,Social consequences,Non,Other,30,25
+Phishing,Person,Student,Other,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Other,Female,Male,Social consequences,Non,Other,30,25
+Abuse of power,Person,Government,Private sector,Special system,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Egypt,Female,Male,Financial consequences,Employee,indictment,30,35
+Other,Person,Government,Government,Email,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,30,35
+Phishing,Person,Private sector,Private sector,Email,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Egypt,Male,Male,Social consequences,Employee,indictment,30,30
+Phishing,Person,Student,Other,Email,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Arab,Male,Male,Social consequences,Non,indictment,20,20
+Phishing,Person,Private sector,Private sector,Email,PC,PC,Unauthorized collection of data,Commercial,Commercial,Egypt,Egypt,Male,Female,Social consequences,Other,indictment,35,30
+Phishing,Person,Private sector,Private sector,Email,PC,PC,Unauthorized collection of data,Commercial,Commercial,Egypt,Egypt,Female,Male,Social consequences,Non,indictment,35,35
+Phishing,Person,Student,Other,Twitter,PC,PC,Unauthorized collection of data,Commercial,Commercial,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,20,25
+Abuse of power,Government,Other,Government,Email,PC,PC,Unauthorized collection of data,Unknown,Residential,NA,Other,NA,Male,Aquirement of private information,Employee,indictment,NA,30
+Phishing,Person,Private sector,Private sector,Other,PC,PC,Unauthorized collection of data,Commercial,Residential,Other,Other,Male,Male,Social consequences,Non,indictment,30,30
+Abuse of power,Company,Other,Private sector,Special system,PC,Mobile,Unauthorized collection of data,Unknown,Commercial,NA,Egypt,NA,Male,Aquirement of private information,Employee,indictment,NA,50
+Phishing,Person,Other,Government,Whatsapp,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Other,Kuwait,Female,Female,Aquirement of private information,Non,indictment,30,50
+Phishing,Person,Private sector,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Unknown,Kuwait,Kuwait,Female,Female,Social consequences,Non,indictment,25,30
+Abuse of power,Person,Private sector,Private sector,Facebook,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Egypt,Male,Male,Aquirement of private information,Employee,indictment,30,30
+Abuse of power,Person,Private sector,Other,Facebook,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Egypt,Male,Male,Aquirement of private information,Employee,indictment,30,35
+Abuse of power,Person,Private sector,Other,Facebook,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Egypt,Male,Male,Aquirement of private information,Employee,indictment,30,30
+Abuse of power,Person,Private sector,Other,Facebook,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Egypt,Male,Male,Aquirement of private information,Employee,indictment,30,30
+Phishing,Person,Government,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Aquirement of private information,Non,indictment,20,25
+Phishing,Person,Government,Government,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Aquirement of private information,Non,indictment,50,40
+Phishing,Person,Government,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,25,20
+Phishing,Person,Government,Government,Whatsapp,Mobile,Mobile,Unauthorized collection of data,Residential,Unknown,Kuwait,Kuwait,Female,Male,Social consequences,Non,Other,30,30
+Phishing,Person,Government,Government,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Egypt,Male,Male,Social consequences,Non,indictment,40,35
+Phishing,Person,Government,Private sector,Twitter,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Egypt,Male,Male,Social consequences,Non,indictment,40,40
+Phishing,Person,Government,Private sector,Twitter,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Egypt,Male,Male,Social consequences,Non,indictment,40,30
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Commercial,Commercial,Egypt,Arab,Female,Male,Social consequences,Non,indictment,30,25
+Phishing,Person,Private sector,Private sector,Snapchat,Mobile,Mobile,Other,Residential,Unknown,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,35,30
+Abuse of power,Company,Other,Private sector,Special system,PC,PC,Unauthorized collection of data,Unknown,Commercial,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,40
+Phishing,Person,Private sector,Private sector,Email,PC,PC,Unauthorized collection of data,Commercial,Commercial,Egypt,Egypt,Male,Male,Social consequences,Non,indictment,40,40
+Phishing,Person,Private sector,Private sector,Email,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,India,Male,Male,Social consequences,Non,indictment,40,40
+Phishing,Person,Private sector,Private sector,Email,PC,PC,Unauthorized collection of data,Residential,Residential,Kuwait,Other,Male,Female,Social consequences,Non,indictment,40,50
+Phishing,Company,Other,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Unknown,Commercial,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,30
+Phishing,Person,Government,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,50,35
+Phishing,Person,Student,Other,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,20,20
+Phishing,Person,Student,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,20,25
+Abuse of power,Person,Government,Government,Special system,PC,PC,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,30,35
+Phishing,Person,Private sector,Private sector,Facebook,PC,PC,Unauthorized collection of data,Commercial,Commercial,Egypt,Egypt,NA,Male,Social consequences,Non,indictment,20,30
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Unauthorized collection of data,Unknown,Residential,NA,Other,NA,Female,Social consequences,Non,indictment,NA,30
+Phishing,Person,Government,Government,Facebook,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,40,40
+Phishing,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,40,30
+Phishing,Person,Government,Private sector,Special system,PC,PC,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,25,30
+Abuse of power,Company,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Unknown,Commercial,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,30
+Phishing,Person,Student,Other,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,20,20
+Phishing,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,40,30
+Phishing,Person,Government,Government,Facebook,Mobile,Mobile,Unauthorized collection of data,Commercial,Commercial,Egypt,Egypt,Female,Male,Social consequences,Non,Other,40,40
+Phishing,Person,Government,Government,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Gulf,Kuwait,Male,Male,Social consequences,Non,indictment,50,40
+Other,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,Other,35,30
+Abuse of power,Company,Other,Private sector,Special system,PC,PC,Unauthorized collection of data,Commercial,Commercial,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,25
+Phishing,Person,Private sector,Private sector,Whatsapp,Mobile,PC,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,30,30
+Other,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,Other,25,25
+Phishing,Person,Government,Other,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Gulf,Kuwait,Female,Male,Social consequences,Non,indictment,30,30
+Phishing,Person,Private sector,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Other,Male,Male,Social consequences,Non,Other,30,25
+Phishing,Person,Government,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,20,20
+Phishing,Person,Private sector,Private sector,Tiktok,Mobile,Mobile,Unauthorized collection of data,Commercial,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,50,50
+Other,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Gulf,Kuwait,Female,Male,Social consequences,Other,indictment,35,35
+Phishing,Person,Private sector,Private sector,Whatsapp,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,20,25
+Phishing,Person,Government,Government,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Female,Social consequences,Other,Other,40,35
+Phishing,Person,Private sector,Private sector,Whatsapp,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,40,40
+Other,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,indictment,25,25
+Abuse of power,Company,Other,Private sector,Special system,PC,PC,Unauthorized collection of data,Unknown,Commercial,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,30
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Kuwait,NA,Male,Financial consequences,Employee,indictment,NA,40
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Commercial,NA,Egypt,NA,Female,Financial consequences,Employee,indictment,NA,30
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Other,NA,Male,Financial consequences,Employee,indictment,NA,50
+Phishing,Person,Private sector,Private sector,Tiktok,Mobile,Mobile,Unauthorized collection of data,Commercial,Unknown,Kuwait,Kuwait,Female,Male,Social consequences,Non,Other,40,50
+Other,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Unknown,Gulf,Kuwait,Female,Male,Social consequences,Other,Other,30,30
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Unknown,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,40
+Other,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Unknown,Gulf,Kuwait,Female,Male,Social consequences,Other,indictment,30,30
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Kuwait,NA,Male,Financial consequences,Employee,indictment,NA,50
+Other,Person,Government,Other,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,indictment,30,40
+Phishing,Company,Other,Private sector,Special system,PC,PC,Other,Unknown,Commercial,NA,Arab,NA,Female,Financial consequences,Employee,indictment,NA,35
+Other,Person,Other,Other,Whatsapp,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Female,Male,Other,Non,Other,30,30
+Other,Person,Student,Government,Twitter,Mobile,Mobile,Other,Commercial,Residential,Kuwait,Other,Female,Female,Social consequences,Non,indictment,25,25
+Phishing,Person,Government,Other,Snapchat,Mobile,Mobile,Other,Residential,Commercial,Kuwait,Kuwait,Male,Male,Other,Non,indictment,30,30
+Phishing,Person,Government,Government,Instagram,Mobile,Mobile,Unauthorized collection of data,Commercial,Commercial,Egypt,Arab,Female,Male,Social consequences,Other,indictment,30,20
+Phishing,Person,Private sector,Private sector,Snapchat,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,Other,35,30
+Abuse of power,Company,Other,Private sector,Special system,PC,PC,Unauthorized collection of data,Unknown,Commercial,NA,Arab,NA,Male,Financial consequences,Employee,indictment,NA,40
+Phishing,Person,Government,Private sector,Email,PC,PC,Unauthorized collection of data,Commercial,Commercial,Other,Arab,Male,Male,Social consequences,Non,Other,25,25
+Phishing,Person,Private sector,Government,Email,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,India,Male,Male,Social consequences,Non,indictment,20,20
+Other,Person,Student,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,Other,20,25
+Phishing,Person,Student,Other,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,20,20
+Phishing,Person,Student,Other,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,20,20
+Phishing,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Other,Other,20,20
+Phishing,Person,Private sector,Private sector,Tiktok,Mobile,Mobile,Unauthorized collection of data,Commercial,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,50,50
+Phishing,Person,Private sector,Government,Email,PC,PC,Unauthorized collection of data,Residential,Residential,Other,Arab,Male,Female,Social consequences,Non,indictment,40,40
+Phishing,Person,Government,Private sector,Email,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,India,Male,Male,Social consequences,Non,indictment,40,40
+Phishing,Person,Private sector,Government,Email,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,India,Male,Female,Social consequences,Non,Other,40,30
+Phishing,Company,Other,Private sector,Instagram,Mobile,Mobile,Other,Unknown,Commercial,NA,Arab,NA,Male,Financial consequences,Employee,indictment,NA,25
+Phishing,Person,Government,Private sector,Snapchat,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,Other,30,30
+Phishing,Person,Student,Other,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,20,20
+Phishing,Person,Student,Government,Snapchat,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,20,25
+Abuse of power,Person,Government,Other,Special system,PC,PC,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Female,Social consequences,Non,indictment,20,20
+Phishing,Person,Other,Private sector,Facebook,PC,PC,Unauthorized collection of data,Commercial,Commercial,Other,Egypt,NA,Male,Social consequences,Non,Other,20,30
+Phishing,Person,Private sector,Government,Email,PC,PC,Unauthorized collection of data,Commercial,Commercial,Egypt,Arab,Male,Female,Social consequences,Non,indictment,40,40
+Phishing,Person,Government,Government,Email,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Other,Male,Male,Social consequences,Non,indictment,40,40
+Abuse of power,Company,Private sector,Private sector,Other,PC,PC,Unauthorized collection of data,Unknown,Residential,NA,Other,NA,Male,Financial consequences,Employee,indictment,NA,40
+Abuse of power,Company,Other,Private sector,Special system,PC,PC,Other,Unknown,Commercial,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,40
+Abuse of power,Company,Other,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Egypt,NA,Female,Financial consequences,Employee,indictment,NA,40
+Abuse of power,Company,Other,Private sector,Special system,PC,PC,Other,Unknown,Commercial,NA,Egypt,NA,Female,Financial consequences,Employee,indictment,NA,35
+Abuse of power,Company,Other,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,50
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Unauthorized collection of data,Unknown,Commercial,NA,Kuwait,NA,Male,Financial consequences,Employee,indictment,NA,50
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Arab,NA,Male,Financial consequences,Employee,indictment,NA,50
+Other,Government,Other,Other,Tiktok,PC,Mobile,Other,Unknown,Commercial,NA,Arab,NA,Male,Social consequences,Non,indictment,NA,20
+Other,Government,Other,Other,Tiktok,PC,Mobile,Other,Unknown,Residential,NA,Kuwait,NA,Male,Social consequences,Non,indictment,NA,35
+Abuse of power,Company,Other,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Unknown,Commercial,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,35
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Other,Residential,Residential,Kuwait,Other,Female,Male,Social consequences,Other,indictment,50,40
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Other,Residential,Residential,Kuwait,Other,Female,Male,Social consequences,Other,indictment,50,35
+Phishing,Person,Private sector,Private sector,Whatsapp,Mobile,Mobile,Other,Commercial,Commercial,Egypt,Egypt,Female,Male,Social consequences,Non,indictment,40,30
+Phishing,Person,Private sector,Private sector,Whatsapp,Mobile,Mobile,Other,Commercial,Commercial,Egypt,Egypt,Female,Male,Social consequences,Non,indictment,40,35
+Phishing,Person,Student,Other,Snapchat,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Male,Female,Social consequences,Non,indictment,30,30
+Phishing,Person,Student,Other,Snapchat,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Male,Female,Social consequences,Non,indictment,30,25
+Phishing,Person,Student,Other,Snapchat,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Male,Female,Social consequences,Non,indictment,30,25
+Other,Government,Other,Private sector,Snapchat,PC,Mobile,Other,Unknown,Residential,NA,Kuwait,NA,Female,Social consequences,Non,indictment,NA,40
+Phishing,Government,Other,Other,Snapchat,PC,Mobile,Other,Unknown,Residential,NA,Kuwait,NA,Male,Social consequences,Non,indictment,NA,25
+Phishing,Government,Other,Other,Snapchat,PC,Mobile,Other,Unknown,Unknown,NA,Kuwait,NA,Female,Social consequences,Non,indictment,NA,30
+Phishing,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,35,30
+Phishing,Person,Private sector,Private sector,Facebook,Mobile,Mobile,Unauthorized collection of data,Commercial,Commercial,Kuwait,India,Male,Male,Social consequences,Non,indictment,30,30
+Phishing,Person,Private sector,Private sector,Facebook,Mobile,Mobile,Unauthorized collection of data,Commercial,Residential,Kuwait,India,Male,Male,Social consequences,Non,indictment,30,35
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Financial consequences,Non,indictment,40,40
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Financial consequences,Non,indictment,40,40
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Female,Financial consequences,Non,indictment,40,40
+Phishing,Person,Government,Government,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Arab,Male,Male,Financial consequences,Non,indictment,25,25
+Phishing,Person,Other,Other,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,35,35
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Other,Kuwait,Male,Male,Financial consequences,Non,indictment,40,35
+Phishing,Person,Other,Government,Email,PC,PC,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,50,50
+Phishing,Person,Private sector,Private sector,Email,PC,PC,Unauthorized collection of data,Residential,Residential,Egypt,Egypt,Female,Male,Social consequences,Non,indictment,30,40
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Unauthorized collection of data,Unknown,Residential,NA,India,NA,Female,Financial consequences,Employee,indictment,NA,40
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Kuwait,NA,Male,Financial consequences,Employee,indictment,NA,35
+Abuse of power,Government,Other,Government,Special system,PC,PC,Other,Unknown,Residential,NA,Kuwait,NA,Male,Financial consequences,Employee,indictment,NA,50
+Other,Person,Government,Other,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,30,30
+Other,Person,Student,Other,Tiktok,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,30,25
+Other,Person,Government,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Other,Kuwait,Female,Male,Financial consequences,Other,indictment,35,35
+Phishing,Person,Private sector,Government,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Other,Female,Male,Social consequences,Other,indictment,50,50
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Commercial,NA,Arab,NA,Male,Financial consequences,Employee,indictment,NA,30
+Phishing,Person,Other,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,indictment,40,40
+Phishing,Person,Private sector,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,indictment,30,30
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,50
+Phishing,Person,Student,Private sector,Special system,PC,PC,Unauthorized collection of data,Commercial,Commercial,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,25,25
+Phishing,Person,Student,Other,Whatsapp,Mobile,Mobile,Unauthorized collection of data,Commercial,Commercial,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,20,20
+Phishing,Person,Student,Other,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,20,30
+Phishing,Person,Government,Other,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Gulf,Other,Male,Male,Social consequences,Non,Other,25,30
+Phishing,Person,Student,Other,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Other,Female,Male,Social consequences,Non,Other,25,30
+Abuse of power,Person,Government,Private sector,Special system,PC,PC,Unauthorized collection of data,Residential,Residential,Kuwait,Egypt,Female,Male,Financial consequences,Non,indictment,30,40
+Other,Person,Private sector,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,20,20
+Phishing,Person,Private sector,Private sector,Email,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Other,Male,Male,Social consequences,Non,indictment,20,30
+Phishing,Person,Student,Other,Whatsapp,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,India,Male,Male,Social consequences,Non,indictment,20,20
+Phishing,Person,Private sector,Private sector,Email,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Egypt,Egypt,Male,Female,Social consequences,Non,indictment,35,30
+Phishing,Person,Private sector,Private sector,Twitter,Mobile,Mobile,Unauthorized collection of data,Commercial,Commercial,Other,Egypt,Female,Male,Social consequences,Non,indictment,40,30
+Phishing,Person,Student,Other,Twitter,Mobile,Mobile,Unauthorized collection of data,Commercial,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,20,20
+Abuse of power,Government,Other,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Unknown,Commercial,NA,Egypt,NA,Male,Aquirement of private information,Employee,indictment,NA,30
+Phishing,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Commercial,Commercial,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,40,40
+Other,Person,Government,Government,Facebook,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,40,40
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Commercial,Commercial,Other,Arab,Male,Female,Social consequences,Non,indictment,50,35
+Phishing,Person,Private sector,Private sector,Twitter,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,India,Male,Female,Financial consequences,Non,indictment,30,30
+Phishing,Person,Private sector,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Kuwait,Male,Male,Financial consequences,Non,indictment,30,30
+Abuse of power,Person,Private sector,Government,Twitter,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Kuwait,Male,Male,Financial consequences,Non,indictment,30,30
+Other,Person,Private sector,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,40,40
+Other,Person,Government,Government,Twitter,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,50,50
+Other,Person,Private sector,Government,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Other,Kuwait,Male,Male,Financial consequences,Non,indictment,30,30
+Phishing,Person,Government,Government,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,30,30
+Other,Person,Student,Other,Tiktok,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,30,25
+Other,Person,Government,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Gulf,Kuwait,Female,Male,Financial consequences,Other,indictment,40,35
+Phishing,Person,Private sector,Other,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Gulf,Other,Female,Male,Social consequences,Other,indictment,50,50
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Arab,NA,Female,Financial consequences,Employee,indictment,NA,30
+Phishing,Person,Other,Other,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Female,Social consequences,Other,indictment,40,40
+Phishing,Person,Private sector,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Kuwait,Female,Male,Social consequences,Other,indictment,25,30
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Egypt,NA,Male,Financial consequences,Employee,indictment,NA,50
+Phishing,Person,Student,Private sector,Special system,PC,PC,Unauthorized collection of data,Commercial,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,20,30
+Phishing,Person,Student,Other,Whatsapp,Mobile,Mobile,Unauthorized collection of data,Commercial,Residential,Kuwait,Kuwait,Female,Female,Social consequences,Non,indictment,20,20
+Phishing,Person,Student,Other,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,20,20
+Other,Person,Student,Other,Tiktok,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,25,25
+Other,Person,Government,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Female,Financial consequences,Other,indictment,35,30
+Phishing,Person,Private sector,Government,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Female,Social consequences,Other,indictment,50,40
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Kuwait,NA,Male,Financial consequences,Employee,indictment,NA,30
+Phishing,Person,Other,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Other,indictment,40,40
+Phishing,Person,Private sector,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Kuwait,Female,Male,Social consequences,Other,indictment,30,30
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Unknown,Residential,NA,Kuwait,NA,Male,Financial consequences,Employee,indictment,NA,50
+Phishing,Person,Student,Private sector,Special system,PC,PC,Unauthorized collection of data,Commercial,Commercial,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,30,25
+Phishing,Person,Student,Other,Whatsapp,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,20,20
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Financial consequences,Non,indictment,40,40
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,NA,Male,Other,Non,indictment,40,35
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Gulf,Kuwait,NA,Female,Other,Non,indictment,40,40
+Phishing,Person,Government,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Arab,Male,Male,Financial consequences,Non,indictment,20,25
+Phishing,Person,Government,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,35,35
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Other,Kuwait,Male,Male,Financial consequences,Non,indictment,40,35
+Phishing,Person,Government,Government,Email,PC,PC,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,40,50
+Phishing,Person,Private sector,Private sector,Email,PC,PC,Unauthorized collection of data,Residential,Residential,Egypt,Egypt,Female,Male,Social consequences,Non,indictment,30,40
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Unauthorized collection of data,Residential,Residential,Gulf,India,Male,Female,Financial consequences,Employee,indictment,NA,40
+Abuse of power,Company,Private sector,Private sector,Special system,PC,PC,Other,Residential,Residential,Gulf,Kuwait,Male,Male,Financial consequences,Employee,indictment,NA,35
+Phishing,Person,Private sector,Government,Special system,PC,PC,Other,Commercial,Residential,Gulf,Kuwait,Male,Male,Financial consequences,Employee,indictment,NA,50
+Phishing,Person,Private sector,Private sector,Instagram,PC,PC,Unauthorized collection of data,Commercial,Commercial,Kuwait,Arab,Male,Female,Social consequences,Non,indictment,50,50
+Abuse of power,Person,Private sector,Private sector,Snapchat,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Other,Female,Female,Financial consequences,Non,indictment,50,40
+Abuse of power,Person,Private sector,Private sector,Snapchat,PC,PC,Other,Residential,Commercial,Kuwait,Kuwait,Female,Male,Financial consequences,Non,indictment,40,40
+Abuse of power,Person,Government,Government,Twitter,PC,PC,Other,Residential,Residential,Kuwait,Kuwait,Female,Male,Financial consequences,Non,indictment,40,35
+Other,Person,Private sector,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,35,30
+Other,Person,Government,Private sector,Twitter,Mobile,Mobile,Other,Residential,Residential,Kuwait,Kuwait,Female,Male,Social consequences,Non,indictment,35,20
+Other,Person,Private sector,Government,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Financial consequences,Non,indictment,30,35
+Phishing,Person,Government,Government,Other,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,30,40
+Abuse of power,Person,Private sector,Private sector,Twitter,PC,PC,Other,Commercial,Commercial,Kuwait,Arab,Male,Male,Financial consequences,Non,indictment,30,30
+Phishing,Person,Private sector,Government,Email,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,20,40
+Phishing,Person,Private sector,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,40,40
+Phishing,Person,Government,Government,Facebook,Mobile,Mobile,Unauthorized collection of data,Commercial,Commercial,Kuwait,Egypt,Male,Male,Social consequences,Non,Other,35,40
+Phishing,Person,Government,Government,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,indictment,50,40
+Other,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,35,30
+Abuse of power,Person,Government,Private sector,Twitter,PC,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Egypt,Male,Male,Financial consequences,Non,indictment,30,25
+Phishing,Person,Private sector,Private sector,Whatsapp,Mobile,PC,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,30,30
+Other,Person,Government,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Social consequences,Non,Other,25,25
+Phishing,Person,Government,Private sector,Instagram,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Gulf,Kuwait,Male,Male,Social consequences,Non,indictment,30,30
+Phishing,Person,Private sector,Private sector,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Residential,Kuwait,Other,Male,Male,Social consequences,Non,Other,30,25
+Abuse of power,Person,Private sector,Private sector,Twitter,PC,PC,Unauthorized collection of data,Commercial,Commercial,Kuwait,India,Male,Male,Financial consequences,Non,indictment,50,30
+Phishing,Person,Government,Private sector,Twitter,Mobile,PC,Unauthorized collection of data,Residential,Commercial,Other,Arab,Male,Male,Financial consequences,Non,indictment,40,40
+Abuse of power,Person,Private sector,Private sector,Twitter,Mobile,PC,Unauthorized collection of data,Residential,Commercial,Kuwait,Arab,Male,Male,Other,Non,indictment,40,35
+Other,Person,Private sector,Private sector,Email,PC,PC,Unauthorized collection of data,Commercial,Commercial,Egypt,Egypt,Male,Female,Aquirement of private information,Non,indictment,25,35
+Other,Person,Government,Government,Email,PC,PC,Unauthorized collection of data,Residential,Residential,Kuwait,Kuwait,Male,Male,Aquirement of private information,Non,indictment,20,35
+Other,Person,Government,Government,Other,Mobile,Mobile,Unauthorized collection of data,Commercial,Residential,Kuwait,Kuwait,Male,Male,Aquirement of private information,Non,indictment,25,30
+Other,Person,Government,Government,Snapchat,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Arab,Male,Male,Other,Non,indictment,50,40
+Phishing,Person,Private sector,Government,Twitter,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Kuwait,Male,Male,Other,Non,indictment,30,30
+Phishing,Person,Government,Government,Tiktok,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Kuwait,Male,Male,Financial consequences,Non,indictment,30,30
+Phishing,Person,Private sector,Government,Tiktok,Mobile,Mobile,Unauthorized collection of data,Residential,Commercial,Kuwait,Kuwait,Male,Male,Financial consequences,Non,indictment,25,30
